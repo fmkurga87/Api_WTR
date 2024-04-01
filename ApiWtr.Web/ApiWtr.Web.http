@@ -1,0 +1,6 @@
+@ApiWtr.Web_HostAddress = http://localhost:5242
+
+GET {{ApiWtr.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

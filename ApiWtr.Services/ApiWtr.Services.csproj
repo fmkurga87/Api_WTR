@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiWtr.Contracts\ApiWtr.Contracts.csproj" />
+    <ProjectReference Include="..\ApiWtr.Data\ApiWtr.Data.csproj" />
+  </ItemGroup>
+</Project>
